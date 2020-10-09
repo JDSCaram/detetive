@@ -1,7 +1,7 @@
-# Detetive
+# Suspeito
 
-This project is the implementation from the notes block from the [`Detetive` game from Estrela®](https://www.estrela.com.br/detetive/p).
-If you live outside from Brazil, you may know this game by the name of `Clue`.
+This project is a fork of implementation [`Detetive`](https://github.com/faogustavo/detetive) for [`Suspeito` game from Pais e Filhos®](https://www.paisefilhos.ind.br/)
+Thanks @gustavo.valvassori
 
 ## Rules
 

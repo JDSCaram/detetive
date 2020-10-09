@@ -5,7 +5,7 @@ object ReleaseVersions {
 
     const val versionCode = 1
     const val versionName = "1.0.0"
-    const val appId = "dev.valvassori.detetive"
+    const val appId = "com.jdscaram.suspeito"
 }
 
 object BuildDependencies {

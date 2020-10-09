@@ -11,12 +11,12 @@
     <color name="location_maybe_hand">#F39696</color>
     <color name="location_maybe_envelop">#A8CD7C</color>
 
-    <color name="card_sergeant">#FFEB3B</color>
-    <color name="card_florist">#F8F8F8</color>
+    <color name="card_driver">#FFEB3B</color>
+    <color name="card_housekeeper">#F8F8F8</color>
     <color name="card_chef">#7C4F0D</color>
     <color name="card_butler">#2196F3</color>
-    <color name="card_doctor">#DF4E7F</color>
-    <color name="card_dancer">#FF0000</color>
-    <color name="card_gravedigger">#2B2B2B</color>
+    <color name="card_wife">#DF4E7F</color>
+    <color name="card_gardener">#FF0000</color>
+    <color name="card_neighbor">#2B2B2B</color>
     <color name="card_lawyer">#4CAF50</color>
 </resources>

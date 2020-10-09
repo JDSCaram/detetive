@@ -7,7 +7,7 @@
 
     <fragment
         android:id="@+id/mainFragment"
-        android:name="dev.valvassori.detetive.ui.main.MainFragment"
+        android:name="com.jdscaram.suspeito.ui.main.MainFragment"
         android:label="main_fragment"
         tools:layout="@layout/main_fragment">
         <action
@@ -16,10 +16,10 @@
     </fragment>
     <dialog
         android:id="@+id/editCardDialog"
-        android:name="dev.valvassori.detetive.ui.edit.EditCardDialog"
+        android:name="com.jdscaram.suspeito.ui.edit.EditCardDialog"
         android:label="EditCardDialog">
         <argument
             android:name="card"
-            app:argType="dev.valvassori.detetive.domain.model.Card" />
+            app:argType="com.jdscaram.suspeito.domain.model.Card" />
     </dialog>
 </navigation>
